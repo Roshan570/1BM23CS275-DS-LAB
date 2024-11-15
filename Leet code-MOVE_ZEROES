@@ -11,3 +11,5 @@ void moveZeroes(int* nums, int numsSize) {
     }
    
 }
+
+OUTPUT:
