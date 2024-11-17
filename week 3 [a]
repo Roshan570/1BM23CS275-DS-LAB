@@ -110,6 +110,132 @@ int main() {
 }
 
 Output:
+Queue Operations Menu:
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter your choice: 1
+Enter value to insert: 10
+Inserted 10 into the queue.
+
+Queue Operations Menu:
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter your choice: 1
+Enter value to insert: 20
+Inserted 20 into the queue.
+
+Queue Operations Menu:
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter your choice: 1
+Enter value to insert: 30
+Inserted 30 into the queue.
+
+Queue Operations Menu:
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter your choice: 1
+Enter value to insert: 40
+Inserted 40 into the queue.
+
+Queue Operations Menu:
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter your choice: 1
+Enter value to insert: 50
+Inserted 50 into the queue.
+
+Queue Operations Menu:
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter your choice: 1
+Enter value to insert: 60
+Queue Overflow! Cannot insert 60
+
+Queue Operations Menu:
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter your choice: 3
+Queue elements: 10 20 30 40 50
+
+Queue Operations Menu:
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter your choice: 2
+Deleted 10 from the queue.
+
+Queue Operations Menu:
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter your choice: 2
+Deleted 20 from the queue.
+
+Queue Operations Menu:
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter your choice: 3
+Queue elements: 30 40 50
+
+Queue Operations Menu:
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter your choice: 2
+Deleted 30 from the queue.
+
+Queue Operations Menu:
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter your choice: 2
+Deleted 40 from the queue.
+
+Queue Operations Menu:
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter your choice: 2
+Deleted 50 from the queue.
+
+Queue Operations Menu:
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter your choice: 2
+Queue Underflow! Cannot delete element
+
+Queue Operations Menu:
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter your choice: 4
+Exiting program.
+
 
 
 
